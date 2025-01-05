@@ -14,6 +14,7 @@ semikong-eval/
 ├── datasets/
 │   ├── semikong_train_entries_fixed.json    # Training dataset
 │   ├── edatcad.json       # EDA/TCAD test cases
+│   ├── tmscout.json       # Technical serach dataset
 │   └── acronyms.json      # Semiconductor acronyms test cases
 └── results/
     └── SKedatcad_short.txt    # Evaluation results
