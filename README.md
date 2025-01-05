@@ -12,7 +12,6 @@ semikong-eval/
 │   ├── indexsearch.py     # JSON search and analysis tool
 │   └── SKEval.py          # SemiKong evaluation script
 ├── datasets/
-│   ├── semikong_train_entries_fixed.json    # Training dataset
 │   ├── edatcad.json       # EDA/TCAD test cases
 │   ├── tmscout.json       # Technical serach dataset
 │   └── acronyms.json      # Semiconductor acronyms test cases
