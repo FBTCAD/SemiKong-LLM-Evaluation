@@ -1,0 +1,553 @@
+=== Test Case 1 ===
+Category: Terminology Recognition
+Input: What does 'EDA' stand for?
+Expected: Electronic Design Automation
+LLM Response: EDA stands for Electronic Design Automation.
+Fuzzy Match: Pass (Score: 100.00)
+Keyword Match: Pass (Score: 100.00)
+RapidFuzz Match: Pass (Score: 100.00)
+Average Score: 100.00
+Result: Pass
+
+=== Test Case 2 ===
+Category: Terminology Recognition
+Input: What does 'TCAD' stand for?
+Expected: Technology Computer-Aided Design
+LLM Response: TCAD stands for Technology Computer-Aided Design.
+Fuzzy Match: Pass (Score: 100.00)
+Keyword Match: Pass (Score: 100.00)
+RapidFuzz Match: Pass (Score: 100.00)
+Average Score: 100.00
+Result: Pass
+
+=== Test Case 3 ===
+Category: Terminology Recognition
+Input: What does 'HDL' stand for?
+Expected: Hardware Description Language
+LLM Response: HDL stands for Hardware Description Language.
+Fuzzy Match: Pass (Score: 100.00)
+Keyword Match: Pass (Score: 100.00)
+RapidFuzz Match: Pass (Score: 100.00)
+Average Score: 100.00
+Result: Pass
+
+=== Test Case 4 ===
+Category: Terminology Recognition
+Input: What does 'VHDL' stand for?
+Expected: VHSIC Hardware Description Language
+LLM Response: VHDL stands for VHSIC (Very High-Speed Integrated Circuit) Hardware Description Language. However, to provide a concise answer:
+
+VHDL stands for VHSIC Hardware Description Language.
+Fuzzy Match: Pass (Score: 100.00)
+Keyword Match: Pass (Score: 100.00)
+RapidFuzz Match: Pass (Score: 100.00)
+Average Score: 100.00
+Result: Pass
+
+=== Test Case 5 ===
+Category: Terminology Recognition
+Input: What does 'Verilog' stand for?
+Expected: Verilog means Verification and Logic
+LLM Response: Verilog stands for "VERItable LOGic".
+Fuzzy Match: Pass (Score: 64.00)
+Keyword Match: Fail (Score: 60.00)
+RapidFuzz Match: Pass (Score: 67.61)
+Average Score: 63.87
+Result: Pass
+
+=== Test Case 6 ===
+Category: Terminology Recognition
+Input: What does 'RTL' stand for?
+Expected: Register-Transfer Level
+LLM Response: RTL stands for Register-Transfer Level.
+Fuzzy Match: Pass (Score: 100.00)
+Keyword Match: Pass (Score: 100.00)
+RapidFuzz Match: Pass (Score: 100.00)
+Average Score: 100.00
+Result: Pass
+
+=== Test Case 7 ===
+Category: Terminology Recognition
+Input: What does 'GDSII' stand for?
+Expected: Graphic Data System II
+LLM Response: GDSII stands for Calibre Design Stream II.
+Fuzzy Match: Fail (Score: 50.00)
+Keyword Match: Fail (Score: 25.00)
+RapidFuzz Match: Fail (Score: 52.38)
+Average Score: 42.46
+Result: Fail
+
+=== Test Case 8 ===
+Category: Terminology Recognition
+Input: What does 'OASIS' stand for?
+Expected: Open Artwork System Interchange Standard
+LLM Response: OASIS stands for Open Access Same Initiative for Semiconductors.
+Fuzzy Match: Fail (Score: 48.00)
+Keyword Match: Fail (Score: 20.00)
+RapidFuzz Match: Fail (Score: 47.50)
+Average Score: 38.50
+Result: Fail
+
+=== Test Case 9 ===
+Category: Terminology Recognition
+Input: What does 'LVS' stand for?
+Expected: Layout Versus Schematic
+LLM Response: LVS stands for Layout Versus Schematic.
+Fuzzy Match: Pass (Score: 100.00)
+Keyword Match: Pass (Score: 100.00)
+RapidFuzz Match: Pass (Score: 100.00)
+Average Score: 100.00
+Result: Pass
+
+=== Test Case 10 ===
+Category: Terminology Recognition
+Input: What does 'DRC' stand for?
+Expected: Design Rule Check
+LLM Response: 'DRC' stands for Design Rule Check.
+Fuzzy Match: Pass (Score: 100.00)
+Keyword Match: Pass (Score: 100.00)
+RapidFuzz Match: Pass (Score: 100.00)
+Average Score: 100.00
+Result: Pass
+
+=== Test Case 11 ===
+Category: Terminology Recognition
+Input: What does 'ERC' stand for?
+Expected: Electrical Rule Check
+LLM Response: ERC stands for Error Correction Code.
+Fuzzy Match: Fail (Score: 40.00)
+Keyword Match: Fail (Score: 0.00)
+RapidFuzz Match: Fail (Score: 43.24)
+Average Score: 27.75
+Result: Fail
+
+=== Test Case 12 ===
+Category: Terminology Recognition
+Input: What does 'DFM' stand for?
+Expected: Design for Manufacturability
+LLM Response: DFM stands for Design For Manufacturing.
+Fuzzy Match: Pass (Score: 83.00)
+Keyword Match: Fail (Score: 66.67)
+RapidFuzz Match: Pass (Score: 83.02)
+Average Score: 77.56
+Result: Pass
+
+=== Test Case 13 ===
+Category: Terminology Recognition
+Input: What does 'DFT' stand for?
+Expected: Design for Testability
+LLM Response: DFT stands for Design For Testability.
+Fuzzy Match: Pass (Score: 100.00)
+Keyword Match: Pass (Score: 100.00)
+RapidFuzz Match: Pass (Score: 100.00)
+Average Score: 100.00
+Result: Pass
+
+=== Test Case 14 ===
+Category: Terminology Recognition
+Input: What does 'STA' stand for?
+Expected: Static Timing Analysis
+LLM Response: STA stands for Static Timing Analysis.
+Fuzzy Match: Pass (Score: 100.00)
+Keyword Match: Pass (Score: 100.00)
+RapidFuzz Match: Pass (Score: 100.00)
+Average Score: 100.00
+Result: Pass
+
+=== Test Case 15 ===
+Category: Terminology Recognition
+Input: What does 'SDF' stand for?
+Expected: Standard Delay Format
+LLM Response: SDF stands for Standard Delay Format.
+Fuzzy Match: Pass (Score: 100.00)
+Keyword Match: Pass (Score: 100.00)
+RapidFuzz Match: Pass (Score: 100.00)
+Average Score: 100.00
+Result: Pass
+
+=== Test Case 16 ===
+Category: Terminology Recognition
+Input: What does 'SDC' stand for?
+Expected: Synopsys Design Constraints
+LLM Response: SDC stands for Source Drain Capacitance.
+Fuzzy Match: Fail (Score: 33.00)
+Keyword Match: Fail (Score: 0.00)
+RapidFuzz Match: Fail (Score: 44.44)
+Average Score: 25.81
+Result: Fail
+
+=== Test Case 17 ===
+Category: Terminology Recognition
+Input: What does 'UPF' stand for?
+Expected: Unified Power Format
+LLM Response: UPF stands for Unusable Process Fault.
+Fuzzy Match: Fail (Score: 50.00)
+Keyword Match: Fail (Score: 0.00)
+RapidFuzz Match: Fail (Score: 50.00)
+Average Score: 33.33
+Result: Fail
+
+=== Test Case 18 ===
+Category: Terminology Recognition
+Input: What does 'CPF' stand for?
+Expected: Common Power Format
+LLM Response: CPF stands for Copper Pillar Flip-Chip.
+Fuzzy Match: Fail (Score: 32.00)
+Keyword Match: Fail (Score: 0.00)
+RapidFuzz Match: Fail (Score: 38.89)
+Average Score: 23.63
+Result: Fail
+
+=== Test Case 19 ===
+Category: Terminology Recognition
+Input: What does 'PBA' stand for?
+Expected: Path-Based Analysis
+LLM Response: PBA stands for Package Ball Attach.
+Fuzzy Match: Fail (Score: 42.00)
+Keyword Match: Fail (Score: 0.00)
+RapidFuzz Match: Fail (Score: 48.28)
+Average Score: 30.09
+Result: Fail
+
+=== Test Case 20 ===
+Category: Terminology Recognition
+Input: What does 'GBA' stand for?
+Expected: Graph-Based Analysis
+LLM Response: GBA stands for Global Backend Assembly.
+Fuzzy Match: Fail (Score: 50.00)
+Keyword Match: Fail (Score: 0.00)
+RapidFuzz Match: Fail (Score: 55.00)
+Average Score: 35.00
+Result: Fail
+
+=== Test Case 21 ===
+Category: Terminology Recognition
+Input: What does 'ECO' stand for?
+Expected: Engineering Change Order
+LLM Response: ECO stands for Engineering Change Order.
+Fuzzy Match: Pass (Score: 100.00)
+Keyword Match: Pass (Score: 100.00)
+RapidFuzz Match: Pass (Score: 100.00)
+Average Score: 100.00
+Result: Pass
+
+=== Test Case 22 ===
+Category: Terminology Recognition
+Input: What does 'PDK' stand for?
+Expected: Process Design Kit
+LLM Response: PDK stands for Process Design Kit.
+Fuzzy Match: Pass (Score: 100.00)
+Keyword Match: Pass (Score: 100.00)
+RapidFuzz Match: Pass (Score: 100.00)
+Average Score: 100.00
+Result: Pass
+
+=== Test Case 23 ===
+Category: Terminology Recognition
+Input: What does 'MC' in TCAD stand for?
+Expected: Monte Carlo
+LLM Response: In TCAD (Technology Computer-Aided Design), "MC" stands for "Modeling and Calibration".
+Fuzzy Match: Fail (Score: 45.00)
+Keyword Match: Fail (Score: 0.00)
+RapidFuzz Match: Fail (Score: 47.06)
+Average Score: 30.69
+Result: Fail
+
+=== Test Case 24 ===
+Category: Terminology Recognition
+Input: What does 'IMTAB' stand for?
+Expected: Interconnect Modeling Advisory Board
+LLM Response: IMTAB stands for Ion Milling and Thin film Analysis Bench.
+Fuzzy Match: Fail (Score: 42.00)
+Keyword Match: Fail (Score: 0.00)
+RapidFuzz Match: Fail (Score: 44.44)
+Average Score: 28.81
+Result: Fail
+
+=== Test Case 25 ===
+Category: Terminology Recognition
+Input: What does 'FEM' stand for?
+Expected: Finite Element Method
+LLM Response: FEM stands for Finite Element Method.
+Fuzzy Match: Pass (Score: 100.00)
+Keyword Match: Pass (Score: 100.00)
+RapidFuzz Match: Pass (Score: 100.00)
+Average Score: 100.00
+Result: Pass
+
+=== Test Case 26 ===
+Category: Terminology Recognition
+Input: What does 'FDTD' stand for?
+Expected: Finite-Difference Time-Domain
+LLM Response: FDTD stands for Finite-Difference Time-Domain.
+Fuzzy Match: Pass (Score: 100.00)
+Keyword Match: Pass (Score: 100.00)
+RapidFuzz Match: Pass (Score: 100.00)
+Average Score: 100.00
+Result: Pass
+
+=== Test Case 27 ===
+Category: Terminology Recognition
+Input: What does 'RC extraction' stand for?
+Expected: Resistance-Capacitance extraction
+LLM Response: RC extraction stands for "Resistance-Capacitance extraction".
+Fuzzy Match: Pass (Score: 100.00)
+Keyword Match: Pass (Score: 100.00)
+RapidFuzz Match: Pass (Score: 100.00)
+Average Score: 100.00
+Result: Pass
+
+=== Test Case 28 ===
+Category: Terminology Recognition
+Input: What does 'PEX' stand for?
+Expected: Parasitic Extraction
+LLM Response: PEX stands for Plasma Enhanced Chemical Vapor Deposition (PECVD) eXtreme.
+Fuzzy Match: Fail (Score: 40.00)
+Keyword Match: Fail (Score: 0.00)
+RapidFuzz Match: Fail (Score: 50.00)
+Average Score: 30.00
+Result: Fail
+
+=== Test Case 29 ===
+Category: Terminology Recognition
+Input: What does 'ITF' stand for?
+Expected: Interconnect Technology Format
+LLM Response: ITF stands for Ion Track Formation.
+Fuzzy Match: Fail (Score: 47.00)
+Keyword Match: Fail (Score: 33.33)
+RapidFuzz Match: Fail (Score: 52.00)
+Average Score: 44.11
+Result: Fail
+
+=== Test Case 30 ===
+Category: Terminology Recognition
+Input: What does 'BEM' stand for?
+Expected: Boundary Element Method
+LLM Response: BEM stands for Boundary Element Method.
+Fuzzy Match: Pass (Score: 100.00)
+Keyword Match: Pass (Score: 100.00)
+RapidFuzz Match: Pass (Score: 100.00)
+Average Score: 100.00
+Result: Pass
+
+=== Test Case 31 ===
+Category: Terminology Recognition
+Input: What does 'FDM' as numerical technique stand for?
+Expected: Finite Difference Method
+LLM Response: FDM stands for Finite Difference Method.
+Fuzzy Match: Pass (Score: 100.00)
+Keyword Match: Pass (Score: 100.00)
+RapidFuzz Match: Pass (Score: 100.00)
+Average Score: 100.00
+Result: Pass
+
+=== Test Case 32 ===
+Category: Terminology Recognition
+Input: What is a 'Rule-based PEX tool'?
+Expected: Pattern matching PEX tool
+LLM Response: A Rule-based PEX (Pattern-based Expressive Extraction) tool is a software application used in semiconductor manufacturing to extract and analyze patterns on IC designs, ensuring compliance with design rules and constraints. It utilizes predefined rules to identify and flag potential errors or violations, enabling designers to optimize their layouts for improved manufacturability and performance.
+Fuzzy Match: Fail (Score: 28.00)
+Keyword Match: Fail (Score: 75.00)
+RapidFuzz Match: Fail (Score: 52.00)
+Average Score: 51.67
+Result: Fail
+
+=== Test Case 33 ===
+Category: Terminology Recognition
+Input: What is 'Raphael'?
+Expected: A field solver for RC and L extraction
+LLM Response: In the context of semiconductor manufacturing, Raphael refers to a type of advanced lithography tool developed by ASML (ASML Holding NV), a leading supplier of lithography systems. Specifically, Raphael is a high-NA (numerical aperture) extreme ultraviolet (EUV) lithography platform designed for 3nm and below technology nodes, enabling the production of cutting-edge semiconductor devices with improved performance and power efficiency.
+Fuzzy Match: Fail (Score: 50.00)
+Keyword Match: Fail (Score: 50.00)
+RapidFuzz Match: Fail (Score: 52.63)
+Average Score: 50.88
+Result: Fail
+
+=== Test Case 34 ===
+Category: Terminology Recognition
+Input: What is 'StarRC'?
+Expected: A rule-based parasitic extraction tool
+LLM Response: StarRC is a parasitic extraction tool used in semiconductor design and verification, specifically for extracting resistance (R) and capacitance (C) values from interconnects in integrated circuits.
+Fuzzy Match: Pass (Score: 79.00)
+Keyword Match: Fail (Score: 66.67)
+RapidFuzz Match: Pass (Score: 80.00)
+Average Score: 75.22
+Result: Pass
+
+=== Test Case 35 ===
+Category: Terminology Recognition
+Input: What is 'QuickCap'?
+Expected: A capacitance extraction tool for advanced nodes
+LLM Response: QuickCap is a rapid 3D extraction and verification tool used in semiconductor design and manufacturing, enabling fast and accurate generation of parasitic capacitance models for interconnects and devices.
+Fuzzy Match: Fail (Score: 48.00)
+Keyword Match: Fail (Score: 71.43)
+RapidFuzz Match: Fail (Score: 56.25)
+Average Score: 58.56
+Result: Fail
+
+=== Test Case 36 ===
+Category: Terminology Recognition
+Input: What is 'Rapid3D'?
+Expected: A fast 3D field solver integrated with StarRC
+LLM Response: Rapid3D refers to Rapid Thermal Annealing (RTA) in 3 dimensions, a semiconductor manufacturing technique used to activate dopants and reduce defects in transistors by rapidly heating and cooling the wafer in a 3-dimensional manner.
+Fuzzy Match: Fail (Score: 36.00)
+Keyword Match: Fail (Score: 25.00)
+RapidFuzz Match: Fail (Score: 46.67)
+Average Score: 35.89
+Result: Fail
+
+=== Test Case 37 ===
+Category: Terminology Recognition
+Input: What does 'DTCO' stand for?
+Expected: Design Technology Co-Optimization
+LLM Response: DTCO stands for Density-Independent Threshold Voltage Control Optimization.
+Fuzzy Match: Pass (Score: 64.00)
+Keyword Match: Fail (Score: 50.00)
+RapidFuzz Match: Pass (Score: 67.86)
+Average Score: 60.62
+Result: Pass
+
+=== Test Case 38 ===
+Category: Terminology Recognition
+Input: What does 'STCO' stand for?
+Expected: System Technology Co-Optimization
+LLM Response: STCO stands for Source-Trap-Control-Output.
+Fuzzy Match: Fail (Score: 37.00)
+Keyword Match: Fail (Score: 25.00)
+RapidFuzz Match: Fail (Score: 40.62)
+Average Score: 34.21
+Result: Fail
+
+=== Test Case 39 ===
+Category: Terminology Recognition
+Input: What does 'SISPAD' stand for?
+Expected: Simulation of Semiconductor Processes And Devices
+LLM Response: SISPAD stands for "Source Integrated Spacer Patterning and Doping".
+Fuzzy Match: Fail (Score: 39.00)
+Keyword Match: Fail (Score: 16.67)
+RapidFuzz Match: Fail (Score: 43.96)
+Average Score: 33.21
+Result: Fail
+
+=== Test Case 40 ===
+Category: Terminology Recognition
+Input: What does 'DFT' in atomistic simulation stand for?
+Expected: Density Functional Theory
+LLM Response: In atomistic simulation, DFT stands for Density Functional Theory.
+Fuzzy Match: Pass (Score: 100.00)
+Keyword Match: Pass (Score: 100.00)
+RapidFuzz Match: Pass (Score: 100.00)
+Average Score: 100.00
+Result: Pass
+
+=== Test Case 41 ===
+Category: Terminology Recognition
+Input: What does 'EEPROM' stand for?
+Expected: Electrically Erasable Programmable Read-Only Memory
+LLM Response: EEPROM stands for Electrically Erasable Programmable Read-Only Memory.
+Fuzzy Match: Pass (Score: 100.00)
+Keyword Match: Pass (Score: 100.00)
+RapidFuzz Match: Pass (Score: 100.00)
+Average Score: 100.00
+Result: Pass
+
+=== Test Case 42 ===
+Category: Terminology Recognition
+Input: What does 'NEGF' stand for?
+Expected: Non-Equilibrium Green's Function
+LLM Response: NEGF stands for Non-Equilibrium Green's Function.
+Fuzzy Match: Pass (Score: 100.00)
+Keyword Match: Pass (Score: 100.00)
+RapidFuzz Match: Pass (Score: 100.00)
+Average Score: 100.00
+Result: Pass
+
+=== Test Case 43 ===
+Category: Terminology Recognition
+Input: What does 'ASIC' stand for?
+Expected: Application-Specific Integrated Circuit
+LLM Response: ASIC stands for Application-Specific Integrated Circuit.
+Fuzzy Match: Pass (Score: 100.00)
+Keyword Match: Pass (Score: 100.00)
+RapidFuzz Match: Pass (Score: 100.00)
+Average Score: 100.00
+Result: Pass
+
+=== Test Case 44 ===
+Category: Terminology Recognition
+Input: What does 'SoC' stand for?
+Expected: System on Chip
+LLM Response: SoC stands for System on Chip.
+Fuzzy Match: Pass (Score: 100.00)
+Keyword Match: Pass (Score: 100.00)
+RapidFuzz Match: Pass (Score: 100.00)
+Average Score: 100.00
+Result: Pass
+
+=== Test Case 45 ===
+Category: Terminology Recognition
+Input: What does 'IP' stand for?
+Expected: Intellectual Property
+LLM Response: In the semiconductor industry, "IP" typically stands for Intellectual Property.
+Fuzzy Match: Pass (Score: 100.00)
+Keyword Match: Pass (Score: 100.00)
+RapidFuzz Match: Pass (Score: 100.00)
+Average Score: 100.00
+Result: Pass
+
+=== Test Case 46 ===
+Category: Terminology Recognition
+Input: What does 'KMC' in TCAD stand for?
+Expected: Kinetic Monte Carlo
+LLM Response: In the context of TCAD (Technology Computer-Aided Design), "KMC" stands for "Kinetic Monte Carlo".
+Fuzzy Match: Pass (Score: 100.00)
+Keyword Match: Pass (Score: 100.00)
+RapidFuzz Match: Pass (Score: 100.00)
+Average Score: 100.00
+Result: Pass
+
+=== Test Case 47 ===
+Category: Terminology Recognition
+Input: What does 'SPICE' stand for?
+Expected: Simulation Program with Integrated Circuit Emphasis
+LLM Response: SPICE stands for Simulation Program with Integrated Circuit Emphasis.
+Fuzzy Match: Pass (Score: 100.00)
+Keyword Match: Pass (Score: 100.00)
+RapidFuzz Match: Pass (Score: 100.00)
+Average Score: 100.00
+Result: Pass
+
+=== Test Case 48 ===
+Category: Terminology Recognition
+Input: What does 'HSPICE' stand for?
+Expected: High-Speed SPICE
+LLM Response: HSPICE stands for Hierarchy SPICE (Simulation Program with Integrated Circuit Emphasis).
+Fuzzy Match: Fail (Score: 56.00)
+Keyword Match: Fail (Score: 33.33)
+RapidFuzz Match: Fail (Score: 56.25)
+Average Score: 48.53
+Result: Fail
+
+=== Test Case 49 ===
+Category: Terminology Recognition
+Input: What is a 'Field solver'?
+Expected: A field solver provides a highly accurate extraction of parasitic RC by solving partial differential equations (PDEs) like Maxwell's equations
+LLM Response: A Field Solver is a computational tool used in semiconductor process simulation to solve Maxwell's equations and other partial differential equations, enabling the calculation of electromagnetic fields, thermal distributions, and other physical phenomena within a device or system.
+Fuzzy Match: Fail (Score: 47.00)
+Keyword Match: Fail (Score: 50.00)
+RapidFuzz Match: Fail (Score: 57.60)
+Average Score: 51.53
+Result: Fail
+
+=== Test Case 50 ===
+Category: Terminology Recognition
+Input: What does 'PE' in TCAD stands for?
+Expected: Process Emulation
+LLM Response: In TCAD (Technology Computer-Aided Design), 'PE' stands for Process Emulation.
+Fuzzy Match: Pass (Score: 100.00)
+Keyword Match: Pass (Score: 100.00)
+RapidFuzz Match: Pass (Score: 100.00)
+Average Score: 100.00
+Result: Pass
+
+Accuracy: 60.00%
