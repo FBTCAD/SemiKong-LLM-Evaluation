@@ -24,7 +24,7 @@ logger.info(f"Using device: {device}")
 
 # Embedded configuration
 CONFIG = {
-    "api_url": "http://192.168.18.12:1234/v1/chat/completions",
+    "api_url": "http://API-end-point/v1/chat/completions",
     "model_name": "semikong-70b",
     "max_tokens": 150,
     "temperature": 0.3,
