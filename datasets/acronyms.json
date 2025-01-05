@@ -1,0 +1,448 @@
+{
+  "test_cases": [
+    {
+      "id": 1,
+      "category": "Terminology Recognition",
+      "input": "What does 'ALD' stand for?",
+      "expected_output": "Atomic Layer Deposition"
+    },
+    {
+      "id": 2,
+      "category": "Terminology Recognition",
+      "input": "What does 'CMP' stand for?",
+      "expected_output": "Chemical Mechanical Planarization"
+    },
+    {
+      "id": 3,
+      "category": "Terminology Recognition",
+      "input": "What does 'CVD' stand for?",
+      "expected_output": "Chemical Vapor Deposition"
+    },
+    {
+      "id": 4,
+      "category": "Terminology Recognition",
+      "input": "What does 'DRIE' stand for?",
+      "expected_output": "Deep Reactive-Ion Etching"
+    },
+    {
+      "id": 5,
+      "category": "Terminology Recognition",
+      "input": "What does 'EPI' stand for?",
+      "expected_output": "Epitaxial Growth"
+    },
+    {
+      "id": 6,
+      "category": "Terminology Recognition",
+      "input": "What does 'FIB' stand for?",
+      "expected_output": "Focused Ion Beam"
+    },
+    {
+      "id": 7,
+      "category": "Terminology Recognition",
+      "input": "What does 'FOUP' stand for?",
+      "expected_output": "Front Opening Unified Pod"
+    },
+    {
+      "id": 8,
+      "category": "Terminology Recognition",
+      "input": "What does 'LPCVD' stand for?",
+      "expected_output": "Low-Pressure Chemical Vapor Deposition"
+    },
+    {
+      "id": 9,
+      "category": "Terminology Recognition",
+      "input": "What does 'PECVD' stand for?",
+      "expected_output": "Plasma-Enhanced Chemical Vapor Deposition"
+    },
+    {
+      "id": 10,
+      "category": "Terminology Recognition",
+      "input": "What does 'PVD' stand for?",
+      "expected_output": "Physical Vapor Deposition"
+    },
+    {
+      "id": 11,
+      "category": "Terminology Recognition",
+      "input": "What does 'RIE' stand for?",
+      "expected_output": "Reactive Ion Etching"
+    },
+    {
+      "id": 12,
+      "category": "Terminology Recognition",
+      "input": "What does 'RTP' stand for?",
+      "expected_output": "Rapid Thermal Processing"
+    },
+    {
+      "id": 13,
+      "category": "Terminology Recognition",
+      "input": "What does 'SEM' stand for?",
+      "expected_output": "Scanning Electron Microscope"
+    },
+    {
+      "id": 14,
+      "category": "Terminology Recognition",
+      "input": "What does 'SMIF' stand for?",
+      "expected_output": "Standard Mechanical Interface"
+    },
+    {
+      "id": 15,
+      "category": "Terminology Recognition",
+      "input": "What does 'SPC' stand for?",
+      "expected_output": "Statistical Process Control"
+    },
+    {
+      "id": 16,
+      "category": "Terminology Recognition",
+      "input": "What does 'TMAH' stand for?",
+      "expected_output": "Tetramethylammonium Hydroxide"
+    },
+    {
+      "id": 17,
+      "category": "Terminology Recognition",
+      "input": "What does 'VLSI' stand for?",
+      "expected_output": "Very Large Scale Integration"
+    },
+    {
+      "id": 18,
+      "category": "Terminology Recognition",
+      "input": "What does 'WLP' stand for?",
+      "expected_output": "Wafer-Level Packaging"
+    },
+    {
+      "id": 19,
+      "category": "Terminology Recognition",
+      "input": "What does 'WLCSP' stand for?",
+      "expected_output": "Wafer-Level Chip Scale Package"
+    },
+    {
+      "id": 20,
+      "category": "Terminology Recognition",
+      "input": "What does 'XPS' stand for?",
+      "expected_output": "X-ray Photoelectron Spectroscopy"
+    },
+    {
+      "id": 21,
+      "category": "Terminology Recognition",
+      "input": "What does 'BEOL' stand for?",
+      "expected_output": "Back End of Line"
+    },
+    {
+      "id": 22,
+      "category": "Terminology Recognition",
+      "input": "What does 'FEOL' stand for?",
+      "expected_output": "Front End of Line"
+    },
+    {
+      "id": 23,
+      "category": "Terminology Recognition",
+      "input": "What does 'BGA' stand for?",
+      "expected_output": "Ball Grid Array"
+    },
+    {
+      "id": 24,
+      "category": "Terminology Recognition",
+      "input": "What does 'CMOS' stand for?",
+      "expected_output": "Complementary Metal-Oxide-Semiconductor"
+    },
+    {
+      "id": 25,
+      "category": "Terminology Recognition",
+      "input": "What does 'DRAM' stand for?",
+      "expected_output": "Dynamic Random-Access Memory"
+    },
+    {
+      "id": 26,
+      "category": "Terminology Recognition",
+      "input": "What does 'EUV' stand for?",
+      "expected_output": "Extreme Ultraviolet"
+    },
+    {
+      "id": 27,
+      "category": "Terminology Recognition",
+      "input": "What does 'FMEA' stand for?",
+      "expected_output": "Failure Mode and Effects Analysis"
+    },
+    {
+      "id": 28,
+      "category": "Terminology Recognition",
+      "input": "What does 'HBM' stand for?",
+      "expected_output": "High Bandwidth Memory"
+    },
+    {
+      "id": 29,
+      "category": "Terminology Recognition",
+      "input": "What does 'IC' stand for?",
+      "expected_output": "Integrated Circuit"
+    },
+    {
+      "id": 30,
+      "category": "Terminology Recognition",
+      "input": "What does 'LDO' stand for?",
+      "expected_output": "Low Dropout Regulator"
+    },
+    {
+      "id": 31,
+      "category": "Terminology Recognition",
+      "input": "What does 'MEMS' stand for?",
+      "expected_output": "Micro-Electro-Mechanical Systems"
+    },
+    {
+      "id": 32,
+      "category": "Terminology Recognition",
+      "input": "What does 'NAND' stand for?",
+      "expected_output": "NOT AND (flash memory)"
+    },
+    {
+      "id": 33,
+      "category": "Terminology Recognition",
+      "input": "What does 'OIS' stand for?",
+      "expected_output": "Optical Image Stabilization"
+    },
+    {
+      "id": 34,
+      "category": "Terminology Recognition",
+      "input": "What does 'PCB' stand for?",
+      "expected_output": "Printed Circuit Board"
+    },
+    {
+      "id": 35,
+      "category": "Terminology Recognition",
+      "input": "What does 'PLL' stand for?",
+      "expected_output": "Phase-Locked Loop"
+    },
+    {
+      "id": 36,
+      "category": "Terminology Recognition",
+      "input": "What does 'QFN' stand for?",
+      "expected_output": "Quad Flat No-leads"
+    },
+    {
+      "id": 37,
+      "category": "Terminology Recognition",
+      "input": "What does 'RDL' stand for?",
+      "expected_output": "Redistribution Layer"
+    },
+    {
+      "id": 38,
+      "category": "Terminology Recognition",
+      "input": "What does 'SoC' stand for?",
+      "expected_output": "System on Chip"
+    },
+    {
+      "id": 39,
+      "category": "Terminology Recognition",
+      "input": "What does 'TSV' stand for?",
+      "expected_output": "Through-Silicon Via"
+    },
+    {
+      "id": 40,
+      "category": "Terminology Recognition",
+      "input": "What does 'UV' stand for?",
+      "expected_output": "Ultraviolet"
+    },
+    {
+      "id": 41,
+      "category": "Terminology Recognition",
+      "input": "What does 'VCSEL' stand for?",
+      "expected_output": "Vertical-Cavity Surface-Emitting Laser"
+    },
+    {
+      "id": 42,
+      "category": "Terminology Recognition",
+      "input": "What does 'WAT' stand for?",
+      "expected_output": "Wafer Acceptance Test"
+    },
+    {
+      "id": 43,
+      "category": "Terminology Recognition",
+      "input": "What does 'YAG' stand for?",
+      "expected_output": "Yttrium Aluminum Garnet"
+    },
+    {
+      "id": 44,
+      "category": "Terminology Recognition",
+      "input": "What does 'ZIF' stand for?",
+      "expected_output": "Zero Insertion Force"
+    },
+    {
+      "id": 45,
+      "category": "Terminology Recognition",
+      "input": "What does 'ASIC' stand for?",
+      "expected_output": "Application-Specific Integrated Circuit"
+    },
+    {
+      "id": 46,
+      "category": "Terminology Recognition",
+      "input": "What does 'BIST' stand for?",
+      "expected_output": "Built-In Self-Test"
+    },
+    {
+      "id": 47,
+      "category": "Terminology Recognition",
+      "input": "What does 'COTS' stand for?",
+      "expected_output": "Commercial Off-The-Shelf"
+    },
+    {
+      "id": 48,
+      "category": "Terminology Recognition",
+      "input": "What does 'DAC' stand for?",
+      "expected_output": "Digital-to-Analog Converter"
+    },
+    {
+      "id": 49,
+      "category": "Terminology Recognition",
+      "input": "What does 'EEPROM' stand for?",
+      "expected_output": "Electrically Erasable Programmable Read-Only Memory"
+    },
+    {
+      "id": 50,
+      "category": "Terminology Recognition",
+      "input": "What does 'FPGA' stand for?",
+      "expected_output": "Field-Programmable Gate Array"
+    },
+    {
+      "id": 51,
+      "category": "Terminology Recognition",
+      "input": "What does 'GaN' stand for?",
+      "expected_output": "Gallium Nitride"
+    },
+    {
+      "id": 52,
+      "category": "Terminology Recognition",
+      "input": "What does 'HBT' stand for?",
+      "expected_output": "Heterojunction Bipolar Transistor"
+    },
+    {
+      "id": 53,
+      "category": "Terminology Recognition",
+      "input": "What does 'I/O' stand for?",
+      "expected_output": "Input/Output"
+    },
+    {
+      "id": 54,
+      "category": "Terminology Recognition",
+      "input": "What does 'JFET' stand for?",
+      "expected_output": "Junction Field-Effect Transistor"
+    },
+    {
+      "id": 55,
+      "category": "Terminology Recognition",
+      "input": "What does 'LDMOS' stand for?",
+      "expected_output": "Laterally Diffused Metal-Oxide-Semiconductor"
+    },
+    {
+      "id": 56,
+      "category": "Terminology Recognition",
+      "input": "What does 'MIM' stand for?",
+      "expected_output": "Metal-Insulator-Metal"
+    },
+    {
+      "id": 57,
+      "category": "Terminology Recognition",
+      "input": "What does 'NEMS' stand for?",
+      "expected_output": "Nano-Electro-Mechanical Systems"
+    },
+    {
+      "id": 58,
+      "category": "Terminology Recognition",
+      "input": "What does 'OELD' stand for?",
+      "expected_output": "Organic Light-Emitting Diode"
+    },
+    {
+      "id": 59,
+      "category": "Terminology Recognition",
+      "input": "What does 'QAM' stand for?",
+      "expected_output": "Quadrature Amplitude Modulation"
+    },
+    {
+      "id": 60,
+      "category": "Terminology Recognition",
+      "input": "What does 'FinFET' stand for?",
+      "expected_output": "Fin Field-Effect Transistor"
+    },
+    {
+      "id": 61,
+      "category": "Terminology Recognition",
+      "input": "What does 'GAA' stand for?",
+      "expected_output": "Gate-All-Around"
+    },
+    {
+      "id": 62,
+      "category": "Terminology Recognition",
+      "input": "What does 'FDSOI' stand for?",
+      "expected_output": "Fully Depleted Silicon-On-Insulator"
+    },
+    {
+      "id": 63,
+      "category": "Terminology Recognition",
+      "input": "What does 'SOI technology' stand for?",
+      "expected_output": "Silicon-On-Insulator technology"
+    },
+    {
+      "id": 64,
+      "category": "Terminology Recognition",
+      "input": "What does 'bulk technology' stand for?",
+      "expected_output": "Bulk Silicon technology"
+    },
+    {
+      "id": 65,
+      "category": "Terminology Recognition",
+      "input": "What does 'CoWoS' stand for?",
+      "expected_output": "Chip-on-Wafer-on-Substrate"
+    },
+    {
+      "id": 66,
+      "category": "Terminology Recognition",
+      "input": "What does 'DUV' stand for?",
+      "expected_output": "Deep Ultraviolet"
+    },
+    {
+      "id": 67,
+      "category": "Terminology Recognition",
+      "input": "What does 'FinFlex' stand for?",
+      "expected_output": "Fin Flexibility technology"
+    },
+    {
+      "id": 68,
+      "category": "Terminology Recognition",
+      "input": "What does 'NanoFlex' stand for?",
+      "expected_output": "Nano Flexibility technology"
+    },
+    {
+      "id": 69,
+      "category": "Terminology Recognition",
+      "input": "What does 'SAQP' stand for?",
+      "expected_output": "Self-Aligned Quadruple Patterning"
+    },
+    {
+      "id": 70,
+      "category": "Terminology Recognition",
+      "input": "What does 'EBL' stand for?",
+      "expected_output": "Electron Beam Lithography"
+    },
+    {
+      "id": 71,
+      "category": "Terminology Recognition",
+      "input": "What does 'NIL' stand for?",
+      "expected_output": "Nanoimprint Lithography"
+    },
+    {
+      "id": 72,
+      "category": "Terminology Recognition",
+      "input": "What does 'X-ray Lithography' stand for?",
+      "expected_output": "X-ray Lithography"
+    },
+    {
+      "id": 73,
+      "category": "Terminology Recognition",
+      "input": "What does 'DSA' stand for?",
+      "expected_output": "Directed Self-Assembly"
+    },
+    {
+      "id": 74,
+      "category": "Terminology Recognition",
+      "input": "What does 'EBDW' stand for?",
+      "expected_output": "Electron Beam Direct Write"
+    }
+  ]
+}

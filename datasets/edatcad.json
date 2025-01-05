@@ -1,0 +1,304 @@
+{
+  "test_cases": [
+    {
+      "id": 1,
+      "category": "Terminology Recognition",
+      "input": "What does 'EDA' stand for?",
+      "expected_output": "Electronic Design Automation"
+    },
+    {
+      "id": 2,
+      "category": "Terminology Recognition",
+      "input": "What does 'TCAD' stand for?",
+      "expected_output": "Technology Computer-Aided Design"
+    },
+    {
+      "id": 3,
+      "category": "Terminology Recognition",
+      "input": "What does 'HDL' stand for?",
+      "expected_output": "Hardware Description Language"
+    },
+    {
+      "id": 4,
+      "category": "Terminology Recognition",
+      "input": "What does 'VHDL' stand for?",
+      "expected_output": "VHSIC Hardware Description Language"
+    },
+    {
+      "id": 5,
+      "category": "Terminology Recognition",
+      "input": "What does 'Verilog' stand for?",
+      "expected_output": "Verilog means Verification and Logic"
+    },
+    {
+      "id": 6,
+      "category": "Terminology Recognition",
+      "input": "What does 'RTL' stand for?",
+      "expected_output": "Register-Transfer Level"
+    },
+    {
+      "id": 7,
+      "category": "Terminology Recognition",
+      "input": "What does 'GDSII' stand for?",
+      "expected_output": "Graphic Data System II"
+    },
+    {
+      "id": 8,
+      "category": "Terminology Recognition",
+      "input": "What does 'OASIS' stand for?",
+      "expected_output": "Open Artwork System Interchange Standard"
+    },
+    {
+      "id": 9,
+      "category": "Terminology Recognition",
+      "input": "What does 'LVS' stand for?",
+      "expected_output": "Layout Versus Schematic"
+    },
+    {
+      "id": 10,
+      "category": "Terminology Recognition",
+      "input": "What does 'DRC' stand for?",
+      "expected_output": "Design Rule Check"
+    },
+    {
+      "id": 11,
+      "category": "Terminology Recognition",
+      "input": "What does 'ERC' stand for?",
+      "expected_output": "Electrical Rule Check"
+    },
+    {
+      "id": 12,
+      "category": "Terminology Recognition",
+      "input": "What does 'DFM' stand for?",
+      "expected_output": "Design for Manufacturability"
+    },
+    {
+      "id": 13,
+      "category": "Terminology Recognition",
+      "input": "What does 'DFT' stand for?",
+      "expected_output": "Design for Testability"
+    },
+    {
+      "id": 14,
+      "category": "Terminology Recognition",
+      "input": "What does 'STA' stand for?",
+      "expected_output": "Static Timing Analysis"
+    },
+    {
+      "id": 15,
+      "category": "Terminology Recognition",
+      "input": "What does 'SDF' stand for?",
+      "expected_output": "Standard Delay Format"
+    },
+    {
+      "id": 16,
+      "category": "Terminology Recognition",
+      "input": "What does 'SDC' stand for?",
+      "expected_output": "Synopsys Design Constraints"
+    },
+    {
+      "id": 17,
+      "category": "Terminology Recognition",
+      "input": "What does 'UPF' stand for?",
+      "expected_output": "Unified Power Format"
+    },
+    {
+      "id": 18,
+      "category": "Terminology Recognition",
+      "input": "What does 'CPF' stand for?",
+      "expected_output": "Common Power Format"
+    },
+    {
+      "id": 19,
+      "category": "Terminology Recognition",
+      "input": "What does 'PBA' stand for?",
+      "expected_output": "Path-Based Analysis"
+    },
+    {
+      "id": 20,
+      "category": "Terminology Recognition",
+      "input": "What does 'GBA' stand for?",
+      "expected_output": "Graph-Based Analysis"
+    },
+    {
+      "id": 21,
+      "category": "Terminology Recognition",
+      "input": "What does 'ECO' stand for?",
+      "expected_output": "Engineering Change Order"
+    },
+    {
+      "id": 22,
+      "category": "Terminology Recognition",
+      "input": "What does 'PDK' stand for?",
+      "expected_output": "Process Design Kit"
+    },
+    {
+      "id": 23,
+      "category": "Terminology Recognition",
+      "input": "What does 'MC' in TCAD stand for?",
+      "expected_output": "Monte Carlo"
+    },
+    {
+      "id": 24,
+      "category": "Terminology Recognition",
+      "input": "What does 'IMTAB' stand for?",
+      "expected_output": "Interconnect Modeling Advisory Board"
+    },
+    {
+      "id": 25,
+      "category": "Terminology Recognition",
+      "input": "What does 'FEM' stand for?",
+      "expected_output": "Finite Element Method"
+    },
+    {
+      "id": 26,
+      "category": "Terminology Recognition",
+      "input": "What does 'FDTD' stand for?",
+      "expected_output": "Finite-Difference Time-Domain"
+    },
+    {
+      "id": 27,
+      "category": "Terminology Recognition",
+      "input": "What does 'RC extraction' stand for?",
+      "expected_output": "Resistance-Capacitance extraction"
+    },
+    {
+      "id": 28,
+      "category": "Terminology Recognition",
+      "input": "What does 'PEX' stand for?",
+      "expected_output": "Parasitic Extraction"
+    },
+    {
+      "id": 29,
+      "category": "Terminology Recognition",
+      "input": "What does 'ITF' stand for?",
+      "expected_output": "Interconnect Technology Format"
+    },
+    {
+      "id": 30,
+      "category": "Terminology Recognition",
+      "input": "What does 'BEM' stand for?",
+      "expected_output": "Boundary Element Method"
+    },
+    {
+      "id": 31,
+      "category": "Terminology Recognition",
+      "input": "What does 'FDM' as numerical technique stand for?",
+      "expected_output": "Finite Difference Method"
+    },
+    {
+      "id": 32,
+      "category": "Terminology Recognition",
+      "input": "What is a 'Rule-based PEX tool'?",
+      "expected_output": "Pattern matching PEX tool"
+    },
+    {
+      "id": 33,
+      "category": "Terminology Recognition",
+      "input": "What is 'Raphael'?",
+      "expected_output": "A field solver for RC and L extraction"
+    },
+    {
+      "id": 34,
+      "category": "Terminology Recognition",
+      "input": "What is 'StarRC'?",
+      "expected_output": "A rule-based parasitic extraction tool"
+    },
+    {
+      "id": 35,
+      "category": "Terminology Recognition",
+      "input": "What is 'QuickCap'?",
+      "expected_output": "A capacitance extraction tool for advanced nodes"
+    },
+    {
+      "id": 36,
+      "category": "Terminology Recognition",
+      "input": "What is 'Rapid3D'?",
+      "expected_output": "A fast 3D field solver integrated with StarRC"
+    },
+    {
+      "id": 37,
+      "category": "Terminology Recognition",
+      "input": "What does 'DTCO' stand for?",
+      "expected_output": "Design Technology Co-Optimization"
+    },
+    {
+      "id": 38,
+      "category": "Terminology Recognition",
+      "input": "What does 'STCO' stand for?",
+      "expected_output": "System Technology Co-Optimization"
+    },
+    {
+      "id": 39,
+      "category": "Terminology Recognition",
+      "input": "What does 'SISPAD' stand for?",
+      "expected_output": "Simulation of Semiconductor Processes And Devices"
+    },
+    {
+      "id": 40,
+      "category": "Terminology Recognition",
+      "input": "What does 'DFT' in atomistic simulation stand for?",
+      "expected_output": "Density Functional Theory"
+    },
+    {
+      "id": 41,
+      "category": "Terminology Recognition",
+      "input": "What does 'EEPROM' stand for?",
+      "expected_output": "Electrically Erasable Programmable Read-Only Memory"
+    },
+    {
+      "id": 42,
+      "category": "Terminology Recognition",
+      "input": "What does 'NEGF' stand for?",
+      "expected_output": "Non-Equilibrium Green's Function"
+    },
+    {
+      "id": 43,
+      "category": "Terminology Recognition",
+      "input": "What does 'ASIC' stand for?",
+      "expected_output": "Application-Specific Integrated Circuit"
+    },
+    {
+      "id": 44,
+      "category": "Terminology Recognition",
+      "input": "What does 'SoC' stand for?",
+      "expected_output": "System on Chip"
+    },
+    {
+      "id": 45,
+      "category": "Terminology Recognition",
+      "input": "What does 'IP' stand for?",
+      "expected_output": "Intellectual Property"
+    },
+    {
+      "id": 46,
+      "category": "Terminology Recognition",
+      "input": "What does 'KMC' in TCAD stand for?",
+      "expected_output": "Kinetic Monte Carlo"
+    },
+    {
+      "id": 47,
+      "category": "Terminology Recognition",
+      "input": "What does 'SPICE' stand for?",
+      "expected_output": "Simulation Program with Integrated Circuit Emphasis"
+    },
+    {
+      "id": 48,
+      "category": "Terminology Recognition",
+      "input": "What does 'HSPICE' stand for?",
+      "expected_output": "High-Speed SPICE"
+    },
+    {
+      "id": 49,
+      "category": "Terminology Recognition",
+      "input": "What is a 'Field solver'?",
+      "expected_output": "A field solver provides a highly accurate extraction of parasitic RC by solving partial differential equations (PDEs) like Maxwell's equations"
+    },
+    {
+      "id": 50,
+      "category": "Terminology Recognition",
+      "input": "What does 'PE' in TCAD stands for?",
+      "expected_output": "Process Emulation"
+    }
+  ]
+}
