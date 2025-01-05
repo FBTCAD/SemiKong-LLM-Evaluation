@@ -19,24 +19,9 @@ semikong-eval/
     └── SKedatcad_short.txt    # Evaluation results
 ```
 
-## Prerequisites
-- Python 3.8+
-- NVIDIA GPU with CUDA support (recommended)
-- 64GB+ RAM for running the evaluation framework
-
-## Required Python Packages
-```bash
-pip install -r requirements.txt
-```
-
 ## Setup and Configuration
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/semikong-eval.git
-cd semikong-eval
-```
 
-2. Configure the API settings in `SKEval.py`:
+1. Configure the API settings in `SKEval.py`:
 ```python
 CONFIG = {
     "api_url": "http://your-api-endpoint:1234/v1/chat/completions",
